@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vitor
 
-<!--
-**j-o-s-e-PH/j-o-s-e-PH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cientista de Dados focado em ETL, análise e engenharia de dados. 
+📊 Apaixonado por transformar dados em narrativa.
+🧠 Interesses: linguística, análise forense, sistemas complexos  
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- ETL (Airflow, pipelines)
+- Git & Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/jose-vsouza
+- Email: jvs.programmer@gmail.com
+- Currículo: https://my-portifolio-three-dusky.vercel.app/curriculo
