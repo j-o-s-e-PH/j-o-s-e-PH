@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <strong>👋 Olá, eu sou o Vitor!</strong>.<br>
+  <strong><h2>👋 Olá, eu sou o Vitor!</h2>h2></strong>.<br>
   Sou Bacharel em Ciência de Dados pela UNIVESP, com uma trajetória de 4 anos como Analista de Dados e Integração. Minha experiência é focada no desenvolvimento de pipelines de ETL, consumo de APIs e manutenção de bases de dados robustas.
 </p>
 
